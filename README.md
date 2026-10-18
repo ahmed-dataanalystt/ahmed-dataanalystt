@@ -2,7 +2,7 @@
 
 **Data Analyst** based in Cairo, Egypt. I turn messy, multi-source data into clean models and interactive dashboards that people actually use to make decisions.
 
-- 🎓 B.Sc. Business Information Systems (AASTMT) · Data Analysis Diploma (Route Academy)
+- 🎓 Business Information Systems graduate (AASTMT) · Data Analysis Diploma (Route Academy)
 - 💼 Background in IT support, QA, sales and real estate, so I build reports with the business user in mind
 - 🔎 Open to **Data Analyst / BI Analyst** roles in Cairo or remote
 
