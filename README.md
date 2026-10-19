@@ -14,7 +14,7 @@
 |---|---|---|
 | [**Real Estate Collection Dashboard**](https://github.com/ahmed-dataanalystt/morshedy-collection-dashboard) | 35-page report tracking installment collections across 8 real estate projects | Power BI, Power Query, DAX |
 | [**Health Operations Case Studies**](https://github.com/ahmed-dataanalystt/allianz-powerbi-case-studies) | Helpline SLA & abandonment-driver dashboard, plus claims drivers & exceptions | Power BI, DAX, Data Modeling |
-| [**Northwind Sales Analysis**](https://github.com/ahmed-dataanalystt/northwind-sales-sql-analysis) | 9 business questions answered on 16K orders: revenue trends, product concentration, shipping reliability | SQL (CTEs, window functions) |
+| [**Retail Sales Analysis**](https://github.com/ahmed-dataanalystt/retail-sales-sql-analysis) | 10 business questions on 500 orders: revenue by category, top customers, spending segments, weekday vs weekend sales | SQL Server (JOINs, GROUP BY, CASE) |
 | [**Amazon Sales Analysis**](https://github.com/ahmed-dataanalystt/amazon-sales-excel-analysis) | Cleaning and analyzing Amazon India fashion orders | Excel, Pivot Tables |
 
 ## 🛠 Skills
