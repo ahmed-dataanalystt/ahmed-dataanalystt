@@ -12,10 +12,10 @@
 
 | Project | What it shows | Tools |
 |---|---|---|
-| [**Real Estate Collection Dashboard**](https://github.com/ahmed-dataanalystt/morshedy-collection-dashboard) | 35-page report tracking installment collections across 8 real estate projects | Power BI, Power Query, DAX |
-| [**Health Operations Case Studies**](https://github.com/ahmed-dataanalystt/allianz-powerbi-case-studies) | Helpline SLA & abandonment-driver dashboard, plus claims drivers & exceptions | Power BI, DAX, Data Modeling |
-| [**Retail Sales Analysis**](https://github.com/ahmed-dataanalystt/retail-sales-sql-analysis) | 10 business questions on 500 orders: revenue by category, top customers, spending segments, weekday vs weekend sales | SQL Server (JOINs, GROUP BY, CASE) |
-| [**Amazon Sales Analysis**](https://github.com/ahmed-dataanalystt/amazon-sales-excel-analysis) | Cleaning and analyzing Amazon India fashion orders | Excel, Pivot Tables |
+| [**Collection Analysis Dashboard**](https://github.com/ahmed-dataanalystt/morshedy-collection-dashboard) | Route Academy graduation project: 35-page report tracking installment collections for a real estate developer across 8 projects | Power BI, Power Query, DAX |
+| [**Helpline Performance & Claims Dashboards**](https://github.com/ahmed-dataanalystt/allianz-powerbi-case-studies) | Allianz Partners analytics case study: call-center KPIs across 3 hotlines, IVR drop-offs behind 77% of abandoned calls, 2024 claims drivers and exceptions | Power BI, DAX |
+| [**Retail Sales Analysis**](https://github.com/ahmed-dataanalystt/retail-sales-sql-analysis) | 10 business questions on 500 orders; Electronics drives 47% of revenue; customers segmented by spend | SQL Server |
+| [**Amazon Sales Analysis**](https://github.com/ahmed-dataanalystt/amazon-sales-excel-analysis) | Dashboard on 129K Amazon India orders (78.6M revenue): monthly trend, category mix, 14.2% cancellation rate | Excel, Pivot Tables |
 
 ## 🛠 Skills
 
